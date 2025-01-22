@@ -15,9 +15,6 @@
       # # - name: Snyk Docker Image Scan
       # #   run: snyk container test ${{ env.DOCKER_IMAGE }}
 
-
-  #test#
-
       # name: CI Pipeline
 
       # on:

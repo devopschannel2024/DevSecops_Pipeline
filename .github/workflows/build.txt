@@ -21,7 +21,7 @@
       #   push:
       #     branches:
       #       - master
-      
+      #
       # env:
       #   DOCKER_IMAGE: devopschannel2024/petapp:${{ github.sha }}
       #   MAVEN_OPTS: "-DskipTests=true"
